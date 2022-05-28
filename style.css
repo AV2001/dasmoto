@@ -11,3 +11,17 @@ h1 {
   font-size: 100px;
   text-align: center;
 }
+
+h2 {
+  color: white;
+  font-size: 32px;
+}
+
+.brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
