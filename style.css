@@ -17,11 +17,15 @@ h2 {
   font-size: 32px;
 }
 
-.brushes h2 {
-  background-color: mediumspringgreen;
-}
-
 .price {
   color: blue;
   font-weight: bold;
+}
+
+.section-brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+.section-frames h2 {
+  background-color: lightcoral;
 }
